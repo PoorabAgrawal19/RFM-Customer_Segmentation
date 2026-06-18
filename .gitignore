@@ -6,3 +6,8 @@ data/raw/
 *.csv
 .DS_Store
 *.db
+venv/
+.ipynb_checkpoints/
+.png
+Untitled.ipynb
+untitled.txt
