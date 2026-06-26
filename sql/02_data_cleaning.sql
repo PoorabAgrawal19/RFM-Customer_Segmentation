@@ -90,7 +90,7 @@ FROM dbo.retail_clean
 -- Total Rows before cleaning = 1067371
 -- Total Rows after cleaning = 805549 
 
---total_Currupted_rows removed in clening  = 261822
+--total_Currupted_rows removed in cleaning  = 261822
 
 
 
